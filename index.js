@@ -8,6 +8,6 @@ function iterate(callback) {
   var artists = ["Klimt", "Picasso", "Dali"];
 
   artists.forEach(artist => {
-    return artists;
+    return artist;
   });
 };
