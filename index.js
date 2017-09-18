@@ -9,5 +9,5 @@ function iterate(callback) {
 
   artists.forEach(callback)
 
-  return artists
+  return artists;
 };
