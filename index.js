@@ -10,3 +10,4 @@ function iterate(callback) {
   artists.forEach(artist => {
     return artists;
   });
+};
