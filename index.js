@@ -11,3 +11,7 @@ function iterate(callback) {
 
   return artists;
 };
+
+function doToArray(array, callback) {
+  array.forEach(callback)
+}
