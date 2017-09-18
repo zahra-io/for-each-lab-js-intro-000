@@ -7,7 +7,7 @@ function iterativeLog(array) {
 function iterate(callback) {
   var artists = ["Klimt", "Picasso", "Dali"];
 
-  artists.forEach(callback)
+  artists.forEach(callback);
 
   return artists;
 };
